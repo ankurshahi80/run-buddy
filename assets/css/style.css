@@ -121,3 +121,15 @@ section {
     padding: 10px 20px;
     font-size: 16px;
 }
+
+.intro {
+    text-align: center;
+    line-height: 1.5;
+}
+.section-title {
+    text-align: center;
+    color: #024e76;
+    font-size: 32px;
+    padding-bottom: 25px;
+    border-bottom: #fce138 solid 2px;
+}
